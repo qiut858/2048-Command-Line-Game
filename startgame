@@ -1,0 +1,2 @@
+g++ -o game1 *.cc
+./game1
